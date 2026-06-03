@@ -10,6 +10,7 @@ return(
 <th>Name</th>
 <th>Department</th>
 <th>Salary</th>
+<th>Action</th>
 </tr>
 </thead>
 <tbody>
